@@ -1,7 +1,6 @@
+
 nama saya : Wahyu Dwi Ardhani
 usia : 20 Tahun
-berat badan : 59.0 kg
-tinggi badan : 163 cm
 prodi saya : teknik informatika
 kelas 5if3
 status mahasiswa = inaktive = aktive
